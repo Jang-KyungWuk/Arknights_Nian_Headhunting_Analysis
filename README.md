@@ -1,2 +1,2 @@
-# Arknights_Nien_Headhunting_Analysis
-Analysis about Arknights's gotcha 'Nien featured headhunting'
+# Arknights_Nian_Headhunting_Analysis
+Analysis about Arknights's gotcha 'Nian featured headhunting'
